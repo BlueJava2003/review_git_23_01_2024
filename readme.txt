@@ -1,1 +1,1 @@
-Project version 1.0 SNAPSHOT
+Project version 2.0 SNAPSHOT
