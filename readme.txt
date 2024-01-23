@@ -1,1 +1,1 @@
-Initial project
+Project version 1.0 SNAPSHOT
