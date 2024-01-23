@@ -1,1 +1,1 @@
-String ver 1.0 C1
+String ver 1.0 C2 C1
